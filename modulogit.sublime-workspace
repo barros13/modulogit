@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"list-group",
+				"list-group-item"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"fl",
+				"flex-end\tjustify-content"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ne",
+				"newsletter"
+			],
+			[
+				"border-ra",
+				"border-radius\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"row",
+				"row\tflex-direction"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"bCK",
+				"background-color\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"ds",
+				"display\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bre",
+				"word-break\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"slide",
+				"slideshowarea"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"slid",
+				"slidewidth"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"hidd",
+				"hidden-lg"
+			],
+			[
+				"hidden",
+				"hidden-md"
+			],
+			[
+				"outi",
+				"outline-width\tproperty"
+			],
+			[
+				"hi",
+				"hidden-xs"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"pag",
+				"padding-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"anima",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"n",
+				"no"
+			],
+			[
+				"mn",
+				"minlength\tAttr"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"backd",
+				"background-color\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"r",
+				"currentColor\tbox-shadow"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tex-al",
+				"text-align\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"DIS",
+				"distinct"
+			],
+			[
+				"onmouse",
+				"onmouseleave\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"list-style",
+				"list-style-type\tproperty"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"re",
+				"repeat\tbackground-repeat"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/modulogit"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/projetox/index.php",
+		"/C/wamp64/www/prefeitura/decretos-listdir.php",
+		"/C/wamp64/www/prefeitura/legislacao.php",
+		"/C/wamp64/www/prefeitura/decretos-lista.php",
+		"/C/wamp64/www/prefeitura/decretos.php",
+		"/C/wamp64/www/prefeitura/css/style.css",
+		"/C/wamp64/www/prefeitura/index.php",
+		"/C/wamp64/www/prefeitura/pregao_presencial.php",
+		"/C/wamp64/www/curso/index.html",
+		"/C/wamp64/www/projetox/teste.txt",
+		"/C/wamp64/www/projetox/recebedor.php",
+		"/C/wamp64/www/prefeitura/lrf.php",
+		"/C/wamp64/www/prefeitura/pregao_presencial_aviso.php",
+		"/C/wamp64/www/prefeitura/pregao_presencial_resultado.php",
+		"/C/wamp64/www/prefeitura/404.html",
+		"/C/wamp64/www/prefeitura/404.shtml",
+		"/C/wamp64/www/projetox/projetox.sublime-project",
+		"/C/wamp64/www/prefeitura/processo-seletivo.php",
+		"/C/wamp64/bin/apache/apache2.4.33/conf/httpd.conf",
+		"/C/wamp64/www/index.php",
+		"/C/wamp64/bin/apache/apache2.4.33/conf/extra/httpd-vhosts.conf",
+		"/C/wamp64/bin/php/php5.6.35/php.ini",
+		"/C/wamp64/www/add_vhost.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/wamp64/www/curso/assets/css/style.css",
+		"/C/wamp64/www/curso/assets/js/script.js",
+		"/C/wamp64/www/curso/flex-box/assets/css/style.css",
+		"/C/wamp64/www/curso/flex-box/index.html",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/index.view.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/item.view.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/block.view.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/wamp64/www/prefeitura/js/script.js",
+		"/C/wamp64/www/prefeitura/js/bootstrap.js",
+		"/C/wamp64/www/camara/js/bootstrap.js",
+		"/C/wamp64/www/prefeitura/js/bootstrap.js.bu",
+		"/C/wamp64/www/curso/html/index.html",
+		"/C/wamp64/www/curso/html_portal/assets/js/script.js",
+		"/C/wamp64/www/curso/html_portal/index.html",
+		"/C/wamp64/www/curso/html_portal/assets/css/style.css",
+		"/C/wamp64/www/camara/pontos_turisticos.php",
+		"/C/wamp64/www/camara/pontos_turisticos-SQL.php",
+		"/C/wamp64/www/camara/config.php",
+		"/C/wamp64/www/camara/head.php",
+		"/C/wamp64/www/camara/footer.html",
+		"/C/wamp64/www/camara/functions.php",
+		"/C/wamp64/www/camara/teste.php",
+		"/C/wamp64/www/camara/class.mysql.php",
+		"/C/wamp64/www/prefeitura/info_tur.php",
+		"/C/wamp64/www/camara/conecta.php",
+		"/C/wamp64/www/camara/transparencia.php",
+		"/C/wamp64/www/camara/css/bootstrap.css",
+		"/C/wamp64/www/camara/css/style.css",
+		"/C/wamp64/www/camara/index.php",
+		"/C/wamp64/www/prefeitura/turismo.php",
+		"/C/wamp64/www/camara/atas.php",
+		"/C/wamp64/www/camara/brasao.php",
+		"/C/wamp64/www/camara/busca-arquivo.php",
+		"/C/wamp64/www/camara/busca.php",
+		"/C/wamp64/www/camara/carta-convite.php",
+		"/C/wamp64/www/camara/concurso.php",
+		"/C/wamp64/www/camara/distritos.php",
+		"/C/wamp64/www/camara/extratos_de_contratos.php",
+		"/C/wamp64/www/camara/hino.php",
+		"/C/wamp64/www/camara/indicacoes.php",
+		"/C/wamp64/www/camara/legislacao.php",
+		"/C/wamp64/www/camara/links_uteis.php",
+		"/C/wamp64/www/camara/menu.html",
+		"/C/wamp64/www/camara/menu_lateral.html",
+		"/C/wamp64/www/camara/ouvidoria.php",
+		"/C/wamp64/www/camara/projetos_de_lei.php",
+		"/C/wamp64/www/camara/regimento-interno.php",
+		"/C/wamp64/www/camara/resolucoes.php",
+		"/C/wamp64/www/camara/sucesso.php",
+		"/C/wamp64/www/camara/topo.html",
+		"/C/wamp64/www/camara/vereadores.php",
+		"/C/wamp64/www/camara/seguranca.php",
+		"/C/wamp64/www/camara/bootstrap-4.1.3-dist/css/bootstrap.css",
+		"/C/wamp64/www/camara/js/jquery.zweatherfeed.min.js",
+		"/C/wamp64/www/prefeitura/distritos.php",
+		"/C/wamp64/www/prefeitura/js/jquery.zweatherfeed.min.js",
+		"/C/Users/Filipe/Desktop/HTML5-Geolocation-Based-jQuery-Yahoo-Weather-Widget/yahoo-weather-jquery-plugin.js",
+		"/C/Users/Filipe/Desktop/HTML5-Geolocation-Based-jQuery-Yahoo-Weather-Widget/index.html",
+		"/C/Users/Filipe/Desktop/monkeecreate-jquery.simpleWeather-3.1.0-4-gf8410fa/monkeecreate-jquery.simpleWeather-f8410fa/jquery.simpleWeather.js",
+		"/C/Users/Filipe/Desktop/monkeecreate-jquery.simpleWeather-3.1.0-4-gf8410fa/monkeecreate-jquery.simpleWeather-f8410fa/jquery.simpleWeather.min.js",
+		"/C/Users/Filipe/Desktop/monkeecreate-jquery.simpleWeather-3.1.0-4-gf8410fa/monkeecreate-jquery.simpleWeather-f8410fa/gulpfile.js",
+		"/C/Users/Filipe/Desktop/monkeecreate-jquery.simpleWeather-3.1.0-4-gf8410fa/monkeecreate-jquery.simpleWeather-f8410fa/index.html",
+		"/C/wamp64/www/curso/style.css",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/ncasp.php",
+		"/C/wamp64/www/prefeitura/index.html",
+		"/C/wamp64/www/camara/pmsmm/index.html",
+		"/C/wamp64/www/camara/pmsmm/style.css",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/error.php",
+		"/C/wamp64/www/prefeitura/admin_site/plugins/bootstrap/css/bootstrap.css",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/email.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/download.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/class.mysql.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/banner.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/analyticstracking.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/menu.fixtop.on.scroll-FutureProject.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/bootstrap.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/index2.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/indexm.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/google04ffd36869567cf0.html",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/index 4.html",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/index 3.html",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/form.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/iptu.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/qunit.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/index 2.html",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/tests.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/jquery.expander.min.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/jquery.expander.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/wow.min.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/script.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/modernizr.js",
+		"/C/wamp64/www/prefeitura/js/grstart.js",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/valida.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/seguranca.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/scripts.html",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/produtos_new.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/produtos.php",
+		"/C/Users/Filipe/AppData/Local/Temp/fz3temp-2/login.php",
+		"/C/wamp64/www/prefeitura/carta_convite.php",
+		"/C/wamp64/www/prefeitura/carta_convite_resultado.php",
+		"/C/wamp64/www/camara/head.html",
+		"/C/wamp64/www/prefeitura/transparencia_2.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 107.2,
+		"where_history":
+		[
+			"<open files>",
+			"C:\\wamp64\\www\\camara",
+			"C:\\wamp64\\www\\prefeitura,C:\\wamp64\\www\\camara",
+			"C:\\wamp64\\www\\prefeitura",
+			"C:\\wamp64\\www\\prefeitura\\,C:\\wamp64\\www\\prefeitura\\js",
+			"C:\\wamp64\\www\\prefeitura\\",
+			"C:\\wamp64\\www\\prefeitura"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			" ",
+			"Nova -> ",
+			"list-",
+			"&nbsp&nbsp",
+			"convertem($ext, 0)",
+			".$myDirectory",
+			"$value.",
+			"$value",
+			"3",
+			"row",
+			"col-xs-6",
+			" class='float-right'",
+			"x",
+			"php",
+			"true",
+			"false",
+			"true",
+			"lrfDirectorio",
+			"bimestre",
+			"myDirectory",
+			"startTabCheck",
+			"$_POST['ano'] ",
+			"ln",
+			"$_POST['ano']",
+			"email",
+			"nome",
+			"-",
+			"localhost",
+			"vhost",
+			"426",
+			"padding: 0 20px;",
+			"paddin: 0 20px;",
+			"r",
+			"banner",
+			"testemonial",
+			"feature",
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspen",
+			"_item",
+			"resource",
+			";\n",
+			"52",
+			"img",
+			"<img",
+			" class=\"info\"",
+			"posts",
+			"<div class=\"latest_posts_date\">\n\t\t\t\t\t\t\t\t\t\t6 years ago\n\t\t\t\t\t\t\t\t\t</div>",
+			"posts",
+			" flex",
+			" flex-space-between",
+			" class=\"\"",
+			"</a>",
+			"<a href=\"\">",
+			", consectetur adipiscing",
+			"img",
+			"...",
+			"fm",
+			"banner",
+			"flex",
+			"display: flex;",
+			"888",
+			"opening",
+			" class=\"hours\"",
+			" class=\"days\"",
+			"banner_opening",
+			"//o",
+			"//",
+			" col-md-4",
+			"-2",
+			"2",
+			"posto-avancado-dos-bombeiros-na-comunidade-de-manoel-de-moraes/posto-avancado-dos-bombeiros-na-comunidade-de-manoel-de-moraes",
+			"cola",
+			"container",
+			"red",
+			"posBol",
+			"focusBolinha",
+			"pos",
+			"slideItem",
+			" onfocus=\"focusBolinha",
+			"pos",
+			"Function",
+			"</div",
+			"<div",
+			"data-bola",
+			"'",
+			"272",
+			"340",
+			".btn",
+			".btn-primary",
+			".btn",
+			"card",
+			"055873",
+			"efbe60",
+			"e79e10",
+			"Frouthe",
+			"Cachoeirao",
+			"hidden-md hidden-lg",
+			" hidden-xs hidden-sm",
+			"col-md-4",
+			"Julho",
+			"\"",
+			"imagem_small",
+			"$ln",
+			"descricao",
+			"</head>",
+			"<!doctype html>\n<html>\n<head>",
+			"<head>",
+			"<html>\n<head>",
+			"<!doctype html>",
+			"<!doctype html>\n<html>\n<head>\n<?php include('head.php') ?>\n</head>",
+			"head.html",
+			"<?php include('head.html') ?>",
+			"Campestre",
+			"HFlorestal",
+			"MauDercy",
+			"MDercy",
+			"RTudelandia",
+			"PDubois",
+			"Desengano",
+			"MTorre",
+			"Escorrega",
+			"Cachoeirao",
+			"col-sm-6",
+			"Frouthe",
+			"/a",
+			"a href",
+			"accordion",
+			"a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"head.php",
+			"<?php include('head.php') ?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 177.0
+	},
+	"pinned_build_system": "",
+	"project": "modulogit.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
